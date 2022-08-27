@@ -2534,6 +2534,15 @@ input, select, textarea {
 
 		}
 
+		.style6 {
+			background-color: #505393;
+			color: #d3d4e4;
+		}
+
+		.style6:hover {
+			background-color: #575a90 !important;
+		}
+
 /* Features */
 
 	.features {
@@ -3977,7 +3986,8 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: rgba(29, 36, 42);
+		/* background-color: rgba(29, 36, 42, 0.9); */
 	}
 
 	body.is-mobile.landing #page-wrapper {
