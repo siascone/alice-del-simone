@@ -155,6 +155,20 @@ input, select, textarea {
 			border-bottom-color: transparent;
 		}
 
+		/* a#resume-link {
+			border-bottom-color: transparent !important;
+		} */
+
+		/* a#resume-link {
+			text-decoration: none !important;
+			border: none !important;
+		}
+
+		a#resume-link:hover {
+			text-decoration: none !important;
+			border: none !important;
+		} */
+
 	strong, b {
 		color: #fff;
 		font-weight: 600;
@@ -4015,14 +4029,5 @@ input, select, textarea {
 		background-color: #1d242a;
 	}
 
-/* additional */
 
-#resume-link {
-	text-decoration: none !important;
-	border: none !important;
-}
 
-#resume-link:hover {
-	text-decoration: none !important;
-	border: none !important;
-}
