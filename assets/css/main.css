@@ -76,6 +76,8 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+
 /* Basic */
 
 	@-ms-viewport {
@@ -4012,3 +4014,15 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+/* additional */
+
+#resume-link {
+	text-decoration: none !important;
+	border: none !important;
+}
+
+#resume-link:hover {
+	text-decoration: none !important;
+	border: none !important;
+}
